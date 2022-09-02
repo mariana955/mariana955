@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mariana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mariana955/mariana955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋  Oi meu nome é Mariana
+- 👀  Eu gosto de desenhar, pintar, e dança
+- 🌱 I’esto aprendendo  HTML
+- 💞️ I’m lookin aprender pensamento computacional
+- 📫 Mariana.viana.pr.gov.br
